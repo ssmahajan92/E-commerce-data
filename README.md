@@ -1,0 +1,2 @@
+# E-commerce-data
+E-commerce data actual transaction from UK retailer is available at both websites at UCI Machine Learning Repository with title "Online Retail" and on Kaggle as E-commerce data (kaggle, 2018). This data typically contains transaction data occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. Dataset has 8 columns and 541909 rows
